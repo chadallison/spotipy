@@ -1,0 +1,17 @@
+{
+  "vessel" : "TEDDY_BEAR",
+  "responses" : [
+    {
+      "question" : "questions_question7",
+      "answer" : "spotify:track:6Yu1OL8I0D4vjOzYdsXYGK"
+    },
+    {
+      "question" : "questions_question18",
+      "answer" : "spotify:track:5g5XvfePSypMK6eiVL6BI7"
+    },
+    {
+      "question" : "questions_question8",
+      "answer" : "spotify:track:4h5x3XHLVYFJaItKuO2rhy"
+    }
+  ]
+}

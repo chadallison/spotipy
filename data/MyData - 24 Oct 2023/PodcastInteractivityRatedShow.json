@@ -1,0 +1,14 @@
+{
+  "ratedShows": [
+    {
+      "showName": "Wet Jeans",
+      "rating": 5,
+      "ratedAt": "2023-01-03T18:41:47.394391Z"
+    },
+    {
+      "showName": "American Sport",
+      "rating": 5,
+      "ratedAt": "2022-05-04T16:11:35.634147Z"
+    }
+  ]
+}
